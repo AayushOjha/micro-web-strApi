@@ -1,0 +1,35 @@
+{
+  "home": {
+    "header": {
+      "CompanyNane": "ABC",
+      "Actions": ["About Us", "Sing In"]
+    },
+    "body": [
+      {
+        "slider": {
+          "Images": ["1.png", "2.png", "..."]
+        }
+      },
+      {
+        "productView": [
+          {
+            "Title": "Best of Rajasthan",
+            "Cards": [
+              {
+                "Image":"someUrl",
+                "Title":"title",
+                "Price": "1200",
+                "CurrentPrice":"1000",
+                "Rating":"4.5"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "globleStylings": {
+    "primeryColor": "something",
+    "BackgroundColor":"#sdgh"
+  }
+}
